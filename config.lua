@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '213259970:AAEIVLk3vdrfkeONTCd7S1DSrE0xK9JFV3U',
+	bot_api_key = '',
 	time_offset = 0,
 	admin = 186861590,
 	channel = '',
